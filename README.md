@@ -8,3 +8,5 @@
 
 ## Need to check how to acess CSS/HTML portions?
 ###   [ ]Done?
+
+[Link to another page](./index.html).

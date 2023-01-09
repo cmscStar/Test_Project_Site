@@ -1,0 +1,9 @@
+  ***see if adding picture here results in 
+    minimal/assets/img/logo.png 
+    _/assets/img/logo.png 
+
+    Logo picture located in [https://github.com/pages-themes/minimal/blob/master/assets/img/logo.png]
+
+
+
+

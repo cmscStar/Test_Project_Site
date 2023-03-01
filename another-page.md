@@ -7,5 +7,7 @@ layout: default
 _yay!_
 
 The Sun Baby appears at the beginning and end of each episode. She acts as a wake-up call for the Teletubbies.
-<embed src="https://cmscStar.github.io/NEW_PDF.pdf" type="application/pdf"/>
+
+<embed src="https://Test_Project_Site.github.io/NEW_PDF.pdf" type="application/pdf"/>
+
 [back](./)

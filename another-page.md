@@ -10,6 +10,10 @@ The Sun Baby appears at the beginning and end of each episode. She acts as a wak
 
 <embed src="https://cmscstar.github.io/Test_Project_Site/NEW_PDF.pdf" width="500" height="375" type="application/pdf">
 
-![Octocat](https://cmscstar.github.io/Test_Project_Site/Picture.pdf) 
+![Picture](https://cmscstar.github.io/Test_Project_Site/Picture.png) 
+### Small image
+
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+
 
 [back](./)

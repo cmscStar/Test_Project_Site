@@ -30,4 +30,11 @@ The Sun Baby appears at the beginning and end of each episode. She acts as a wak
     </embed>
 </object> -->
 
+<div markdown="1">
+<aside>
+## My heading
+Some text, some text, some more text.
+</aside>
+</div>
+
 [back](./)

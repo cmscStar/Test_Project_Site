@@ -12,10 +12,10 @@ The Sun Baby appears at the beginning and end of each episode. She acts as a wak
 
 <!-- <embed src="https://github.com/cmscStar/Test_Project_Site/blob/main/NEW_PDF.pdf" type="application/pdf"> -->
 
-![Picture](https://cmscstar.github.io/Test_Project_Site/Picture.png) 
+<!-- ![Picture](https://cmscstar.github.io/Test_Project_Site/Picture.png)  -->
 ### Small image
 
-<!-- ![Picture](https://github.com/cmscStar/Test_Project_Site/blob/main/Picture.PNG) -->
+![Picture](https://github.com/cmscStar/Test_Project_Site/blob/main/Picture.PNG)
 
 
 <object data="https://github.com/cmscStar/Test_Project_Site/blob/main/NEW_PDF.pdf" type="application/pdf" width="700px" height="700px">

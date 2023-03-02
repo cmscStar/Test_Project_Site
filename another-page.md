@@ -61,8 +61,7 @@ Some text, some text, some more text.
     <center>
         <h1 style="color: green">GeeksforGeeks</h1>
         <h3>Embedding the PDF file Using Object Tag</h3>
-        <object data=
-"https://github.com/cmscStar/Test_Project_Site/blob/main/NEW_PDF.pdf" 
+        <object data="https://github.com/cmscStar/Test_Project_Site/blob/main/NEW_PDF.pdf" 
                 width="800" 
                 height="500"> 
         </object>

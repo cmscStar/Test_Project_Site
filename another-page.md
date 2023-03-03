@@ -58,14 +58,17 @@ Some text, some text, some more text.
 <h2>4 My heading</h2>
 <p>Some text, some text, some more text.</p>
 <body>
-<!--     <center> -->
+    <center>
         <h1 style="color: green">GeeksforGeeks</h1>
         <h3>Embedding the PDF file Using Object Tag</h3>
         <object data="https://github.com/cmscStar/Test_Project_Site/blob/main/NEW_PDF.pdf" 
                 width="800" 
                 height="500"> 
         </object>
-<!--     </center> -->
+    </center>
+    <h1>PDF Example with iframe</h1>
+      <iframe src="/NEW_PDF.pdf" width="100%" height="500px">
+      </iframe>
 </body>  
 </aside>
 

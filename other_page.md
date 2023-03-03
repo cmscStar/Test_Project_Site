@@ -14,4 +14,4 @@ layout: default
 <iframe src="/NEW_PDF.pdf" width="100%" height="500px">
 </iframe>
       
-<embed src="/NEW_PDF.pdf" width="500" height="375" type="application/pdf">
+<embed src="https://cmscstar.github.io/Test_Project_Site/NEW_PDF.pdf" width="500" height="375" type="application/pdf">

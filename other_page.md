@@ -21,3 +21,5 @@ layout: default
 <!-- CV no download -->
 <h1>Curriculum vitae</h1>
 <embed src="https://cmscstar.github.io/Test_Project_Site/NEW_PDF.pdf#toolbar=0" width="100%" height="500px" type="application/pdf">
+<iframe src="https://cmscstar.github.io/Test_Project_Site/NEW_PDF.pdf#toolbar=0" width="100%" height="500px">
+</iframe>
